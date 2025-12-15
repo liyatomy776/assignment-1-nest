@@ -1,0 +1,88 @@
+
+h2{
+    margin-top: 0;
+    color: rgb(165, 42, 46);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+body{
+    padding: 2%;
+    background-color:#C1D6E4;
+}
+
+#img{
+    text-align: center;
+    display: block;
+    left: auto;
+    right:auto;
+    width:100%;
+
+}
+nav ul{
+    padding: 20px;
+    list-style-type: none;
+    background-color: #669BBC;
+    overflow: hidden;
+}
+nav li{
+    float: left;
+    margin-right: 20px;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+}
+#about{
+    text-align: center;
+}
+#about p{
+    padding: 15px;
+    border-radius: 8px;
+    background-color: aliceblue;
+}
+p{
+    font-size: 20px;
+}
+.card{
+  padding: 20px;
+  margin: 10px 0;       
+  border-radius: 8px;
+  background-color: aliceblue;
+  border: 1px solid #cfd8e3
+}
+#u2{
+    list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+#u2 li{
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  border: 1px solid #cfd8e3;
+  border-radius: 8px;
+}
+#o1{
+    list-style: none;
+  padding: 0;
+  margin-top: 20px;
+}
+strong{
+    font-size: large;
+}
+#o1 li{
+  padding: 15px;
+  margin-bottom: 10px;
+  background-color: aliceblue;
+  border: 1px solid #cfd8e3;
+  border-radius: 8px;
+}
+#contacts p{
+    text-align: center;
+        padding: 15px;
+    border-radius: 8px;
+    background-color: aliceblue;
+}
+#contacts{
+   text-align: center;
+  margin: 50px auto;
+}
